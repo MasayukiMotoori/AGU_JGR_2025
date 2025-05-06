@@ -1,2 +1,2 @@
 # AGU_JGR_2025
-Debye model application to inversion of time-domain electromagnetic data with induced polarization for a seafloor hydrothermal deposit
+A linearly combined Debye model application to invert time-domain electromagnetic data with induced polarization effects for a seafloor hydrothermal deposit
