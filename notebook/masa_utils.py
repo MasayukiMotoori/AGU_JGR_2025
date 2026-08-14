@@ -215,7 +215,7 @@ class empymod_IP_simulation(BaseSimulation):
     def __init__(self, model_base, nlayer, tx_height, m_depth=False,
         nD=0, nlayer_fix=0, Prj_m=None, m_fix=None,
         recw=None,resmin=1e-3 , resmax=1e6, chgmin=1e-3, chgmax=0.9,
-        taumin=1e-6, taumax=1e-1, cmin= 0.4, cmax=0.9,
+        taumin=1e-6, taumax=1e2, cmin= 0.2, cmax=0.9,
         taus=None, ip_model='pelton', pertubation=0.1,
         smp_freq=None, times=None,filt_curr=None,  window_mat=None,
         ):

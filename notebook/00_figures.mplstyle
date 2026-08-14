@@ -25,7 +25,9 @@ lines.markersize: 1.0
 
 # Axes / grid
 axes.grid: True
-grid.alpha: 1.0
+axes.linewidth: 0.5
+grid.alpha: 0.3
+grid.color : gray
 
 # Legend
 legend.frameon: False
